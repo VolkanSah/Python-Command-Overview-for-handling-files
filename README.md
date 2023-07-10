@@ -190,3 +190,10 @@ This README was generated with the help of ChatGPT4, an AI developed by OpenAI &
 ## Usefull
 - [Python Modul Overview](https://github.com/VolkanSah/Python-Modules-Overview)
 - [Python XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial)
+
+## ❤️ Thank you for your support!
+If you appreciate my work, please consider supporting me:
+
+- Become a Sponsor: [Link to my sponsorship page](https://github.com/sponsors/volkansah)
+- :star: my projects: Starring projects on GitHub helps increase their visibility and can help others find my work. 
+- Follow me: Stay updated with my latest projects and releases.
