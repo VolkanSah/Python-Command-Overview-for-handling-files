@@ -7,7 +7,7 @@ Installation. You can install Python through the official website: https://www.p
 
 - [Installation](#installation-requiments)
 - [Usage](#usage)
-- [Install Requirements](#install-requirements)
+- [Install Requirements](#Install-requirements)
 - [Shell Commands with Python](#shell-commands-with-python)
   - [Creating and writing to a file](#creating-and-writing-to-a-file)
   - [Reading from a file](#reading-from-a-file)
