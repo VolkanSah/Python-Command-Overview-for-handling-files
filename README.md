@@ -2,11 +2,11 @@
 ![Python comman overview for big files](python_large_commands.png)
 
 This project serves as a comprehensive guide to executing shell commands and handling files using Python.
-Installation. You can install Python through the official website: https://www.python.org/downloads/
+Installation. 
 
 ## Table of Contents
 
-- [Installation](#installation-requiments)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Install Requirements](#Install-requirements)
 - [Shell Commands with Python](#shell-commands-with-python)
@@ -35,7 +35,10 @@ Installation. You can install Python through the official website: https://www.p
 
 
 
-## Install requiments
+## Installation
+You can install Python through the official website: https://www.python.org/downloads/
+
+#### Requiments
 ```python
 pip install PyPDF2 python-docx pandas beautifulsoup4
 ```
