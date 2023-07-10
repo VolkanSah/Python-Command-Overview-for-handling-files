@@ -184,7 +184,7 @@ with open("example.html") as fp:
 print(soup.prettify())
 ```
 ## Credits
-This README was generated with the help of ChatGPT, an AI developed by OpenAI.
+This README was generated with the help of ChatGPT4, an AI developed by OpenAI & [Volkan Sah](https://github.com/volkansah).
 
 ## Usefull
 - [Python Modul Overview](https://github.com/VolkanSah/Python-Modules-Overview)
