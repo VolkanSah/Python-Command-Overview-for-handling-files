@@ -153,5 +153,8 @@ with open("example.html") as fp:
 print(soup.prettify())
 ```
 ## Credits
-
 This README was generated with the help of ChatGPT, an AI developed by OpenAI.
+
+## Usefull
+- [Python Modul Overview](https://github.com/VolkanSah/Python-Modules-Overview)
+- [Python XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial)
