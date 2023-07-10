@@ -1,4 +1,4 @@
-# Python Command Overview for handling with files
+# Python Command Overview for handling files
 
 This project serves as a comprehensive guide to executing shell commands and handling files using Python.
 Installation. You can install Python through the official website: https://www.python.org/downloads/
